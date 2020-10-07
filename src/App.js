@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+// website is https://chris2in.github.io/mywebsite/
+//  after change, do a 'npm run deploy' to deploy to ^ website 
 function App() {
   return (
     <div className="App">
